@@ -146,7 +146,7 @@
       "PRIMARY_DARK_900": "#090909"
    },
   "background": {
-    "blur": 3.6,
+    "blur": 2.1,
     "url": "https://cdn.discordapp.com/attachments/1121907795013415003/1189725385743671357/dd71054a72c0fd1e10c8a8ab662b1120.jpg?ex=659f351b&is=658cc01b&hm=c88b7058393f8b2c46c8b53ee515aeb1df5c227c6b2348068e69d0b26afdcafe&",
     "alpha": 0.88
   }
